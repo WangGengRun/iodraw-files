@@ -70,20 +70,6 @@
         <mxCell id="ht8WZSn5VtTU4guc8-pv-24" value="查看校友个人主页" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="690" y="589" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ht8WZSn5VtTU4guc8-pv-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ht8WZSn5VtTU4guc8-pv-19" target="ht8WZSn5VtTU4guc8-pv-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="97" y="564" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ht8WZSn5VtTU4guc8-pv-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ht8WZSn5VtTU4guc8-pv-19" target="ht8WZSn5VtTU4guc8-pv-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="257" y="564" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ht8WZSn5VtTU4guc8-pv-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ht8WZSn5VtTU4guc8-pv-19" target="ht8WZSn5VtTU4guc8-pv-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
