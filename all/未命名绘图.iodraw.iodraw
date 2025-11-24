@@ -31,7 +31,7 @@
         <mxCell id="ht8WZSn5VtTU4guc8-pv-10" value="审核校友身份" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ht8WZSn5VtTU4guc8-pv-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ht8WZSn5VtTU4guc8-pv-12" value="已登录校友" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ht8WZSn5VtTU4guc8-pv-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
