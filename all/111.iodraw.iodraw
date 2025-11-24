@@ -52,6 +52,57 @@
         <mxCell id="ht8WZSn5VtTU4guc8-pv-15" value="安全退出登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ht8WZSn5VtTU4guc8-pv-19" value="已登录校友" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="347" y="490" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ht8WZSn5VtTU4guc8-pv-20" value="维护资料" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="50" y="589" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ht8WZSn5VtTU4guc8-pv-21" value="设置隐私权限" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="194" y="589" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ht8WZSn5VtTU4guc8-pv-22" value="搜索校友" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="370" y="589" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ht8WZSn5VtTU4guc8-pv-23" value="浏览校友信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="514" y="589" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ht8WZSn5VtTU4guc8-pv-24" value="查看校友个人主页" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="690" y="589" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ht8WZSn5VtTU4guc8-pv-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ht8WZSn5VtTU4guc8-pv-19" target="ht8WZSn5VtTU4guc8-pv-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="97" y="564" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ht8WZSn5VtTU4guc8-pv-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ht8WZSn5VtTU4guc8-pv-19" target="ht8WZSn5VtTU4guc8-pv-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="257" y="564" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ht8WZSn5VtTU4guc8-pv-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ht8WZSn5VtTU4guc8-pv-19" target="ht8WZSn5VtTU4guc8-pv-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ht8WZSn5VtTU4guc8-pv-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ht8WZSn5VtTU4guc8-pv-19" target="ht8WZSn5VtTU4guc8-pv-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="564" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ht8WZSn5VtTU4guc8-pv-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ht8WZSn5VtTU4guc8-pv-19" target="ht8WZSn5VtTU4guc8-pv-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="769" y="564" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
