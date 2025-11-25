@@ -19,8 +19,8 @@
             <mxPoint x="450" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-RJxYxpEDItYXs9cVIfm-25" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;提交校友身份验证&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="401.5" y="260" width="84.5" height="40" as="geometry" />
+        <mxCell id="-RJxYxpEDItYXs9cVIfm-25" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;注册账号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392.25" y="280" width="84.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-26" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;修改密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="401.5" y="410" width="66" height="35" as="geometry" />
