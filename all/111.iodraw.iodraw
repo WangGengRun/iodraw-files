@@ -17,7 +17,7 @@
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-40" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="540" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-41" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="660" y="310" width="120" height="60" as="geometry" />
@@ -57,6 +57,12 @@
             <Array as="points">
               <mxPoint x="720" y="240" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-RJxYxpEDItYXs9cVIfm-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
