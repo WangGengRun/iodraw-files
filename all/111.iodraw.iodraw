@@ -117,7 +117,7 @@
             <mxPoint x="340" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-RJxYxpEDItYXs9cVIfm-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-RJxYxpEDItYXs9cVIfm-12">
+        <mxCell id="-RJxYxpEDItYXs9cVIfm-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RJxYxpEDItYXs9cVIfm-12" target="-RJxYxpEDItYXs9cVIfm-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="560" as="sourcePoint" />
             <mxPoint x="350" y="700" as="targetPoint" />
@@ -139,7 +139,7 @@
           <mxGeometry x="370" y="640" width="66" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-31" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;搜索校友&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="650" width="66" height="35" as="geometry" />
+          <mxGeometry x="370" y="690" width="66" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
