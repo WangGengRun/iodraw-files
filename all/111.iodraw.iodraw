@@ -88,6 +88,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-RJxYxpEDItYXs9cVIfm-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="84" y="630" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
