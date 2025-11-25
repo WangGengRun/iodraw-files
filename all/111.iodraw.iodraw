@@ -129,8 +129,8 @@
             <mxPoint x="340" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-RJxYxpEDItYXs9cVIfm-25" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="570" width="80" height="40" as="geometry" />
+        <mxCell id="-RJxYxpEDItYXs9cVIfm-25" value="维护资料" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="560" width="63" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
