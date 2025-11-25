@@ -138,8 +138,11 @@
         <mxCell id="-RJxYxpEDItYXs9cVIfm-30" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;搜索校友&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="640" width="66" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="-RJxYxpEDItYXs9cVIfm-31" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;搜索校友&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-RJxYxpEDItYXs9cVIfm-31" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;浏览校友信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="690" width="66" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-RJxYxpEDItYXs9cVIfm-33" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;浏览校友信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="700" width="66" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
