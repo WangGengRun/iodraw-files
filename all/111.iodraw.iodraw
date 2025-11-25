@@ -4,67 +4,61 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ht8WZSn5VtTU4guc8-pv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="387" y="169" as="sourcePoint" />
-            <mxPoint x="739" y="219" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-RJxYxpEDItYXs9cVIfm-12" target="-RJxYxpEDItYXs9cVIfm-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="660" as="targetPoint" />
+            <mxPoint x="250" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-12" value="校友" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="630" width="30" height="60" as="geometry" />
+          <mxGeometry x="290" y="330" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-16" value="&lt;font style=&quot;font-size: 10.5px;&quot;&gt;登录&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="640" width="64" height="40" as="geometry" />
+          <mxGeometry x="190" y="340" width="64" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-RJxYxpEDItYXs9cVIfm-12" target="-RJxYxpEDItYXs9cVIfm-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="560" as="sourcePoint" />
-            <mxPoint x="360" y="570" as="targetPoint" />
+            <mxPoint x="480" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RJxYxpEDItYXs9cVIfm-12" target="-RJxYxpEDItYXs9cVIfm-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="560" as="sourcePoint" />
-            <mxPoint x="360" y="620" as="targetPoint" />
+            <mxPoint x="480" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.096;entryY=0.481;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-RJxYxpEDItYXs9cVIfm-12" target="-RJxYxpEDItYXs9cVIfm-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="560" as="sourcePoint" />
-            <mxPoint x="340" y="660" as="targetPoint" />
+            <mxPoint x="480" y="260" as="sourcePoint" />
+            <mxPoint x="430" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RJxYxpEDItYXs9cVIfm-12" target="-RJxYxpEDItYXs9cVIfm-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="560" as="sourcePoint" />
-            <mxPoint x="350" y="700" as="targetPoint" />
+            <mxPoint x="480" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-RJxYxpEDItYXs9cVIfm-12" target="-RJxYxpEDItYXs9cVIfm-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="560" as="sourcePoint" />
-            <mxPoint x="340" y="760" as="targetPoint" />
+            <mxPoint x="480" y="260" as="sourcePoint" />
+            <mxPoint x="430" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-25" value="&lt;font style=&quot;font-size: 10.5px;&quot;&gt;维护资料&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="530" width="63" height="40" as="geometry" />
+          <mxGeometry x="407" y="230" width="63" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-26" value="&lt;font style=&quot;font-size: 10.5px;&quot;&gt;设置隐私权限&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="585" width="66" height="35" as="geometry" />
+          <mxGeometry x="444" y="285" width="66" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-30" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;搜索校友&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="642.5" width="66" height="35" as="geometry" />
+          <mxGeometry x="460" y="342.5" width="66" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-31" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;浏览校友信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="690" width="66" height="35" as="geometry" />
+          <mxGeometry x="444" y="390" width="66" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-RJxYxpEDItYXs9cVIfm-33" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;查看校友个人主页&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="308.5" y="740" width="80" height="35" as="geometry" />
+          <mxGeometry x="398.5" y="440" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
