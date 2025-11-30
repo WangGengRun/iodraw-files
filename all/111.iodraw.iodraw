@@ -81,11 +81,6 @@
         <mxCell id="-RJxYxpEDItYXs9cVIfm-56" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="345" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KA8MB2n91PxJz_9jwk3b-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KA8MB2n91PxJz_9jwk3b-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="684.5714285714289" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KA8MB2n91PxJz_9jwk3b-1" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="622.5" y="327.5" width="125" height="60" as="geometry" />
         </mxCell>
